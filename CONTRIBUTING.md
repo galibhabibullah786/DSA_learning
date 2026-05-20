@@ -12,6 +12,15 @@ Thank you for helping keep this DSA learning workspace consistent and easy to re
 
 ---
 
+## Folder Structure
+
+When adding or updating content, please adhere to the following structure:
+
+- `notes/`: Comprehensive topic files following the full Note Structure below.
+- `short-notes/`: Brief, focused explanations for specific concepts.
+
+---
+
 ## File Naming
 
 - Use concise, title-case filenames without spaces when possible.
